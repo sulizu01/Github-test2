@@ -4,6 +4,9 @@
 public class secondProgram {
 
     public static void main(String[] args) {
-        System.out.println("second hello world program!, yaya!");
+        
+        class1 c = new class1();
+        c.Age(18);
+
     }
 }
