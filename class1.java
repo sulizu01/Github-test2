@@ -10,4 +10,14 @@ public class class1 {
         this.age = a;
         System.out.println("you are over 18 !");
     }
+
+    public void verifyDrivingLiscense(Boolean a){
+        if (a) {
+            System.out.println("you do have a driving licence");
+
+        }else{
+            System.out.println("you do not have a driving licence");
+        }
+    }
+
 }
