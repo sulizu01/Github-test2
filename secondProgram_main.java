@@ -1,7 +1,7 @@
 /**
  * secondProgram
  */
-public class secondProgram {
+public class secondProgram_main{
 
     public static void main(String[] args) {
         
